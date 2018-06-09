@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">fifa</string>
+    <string name="title_activity_team_listing">TeamListing</string>
 </resources>
